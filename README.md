@@ -1,6 +1,6 @@
-![GitHub package.json version](https://img.shields.io/github/package-json/v/jefferson1984/gerador-de-paragrafos)
+![GitHub package.json version](https://img.shields.io/github/package-json/v/jefferson1984/gerador-de-cores)
 
-![GitHub language count](https://img.shields.io/github/languages/count/jefferson1984/gerador-de-paragrafos)
+![GitHub language count](https://img.shields.io/github/languages/count/jefferson1984/gerador-de-cores)
 
 ## Projeto Gerador de Cores.
 
@@ -8,13 +8,13 @@ Objetivo é utilização do react em uma simples aplicação e utilizar alguns c
 
 ## Hooks
 
-useState, useEffect e Condicional
+useState e useEffect
 
 ## Imagem do Projeto
 
-[projeto-paragrafos.netlify.app](https://gerador-de-paragrafos.netlify.app/)
+[projeto-gerador-de-cores.netlify.app](https://projeto-gerador-de-cores.netlify.app/)
 
-<img src="https://github.com/jefferson1984/gerador-de-paragrafos/blob/main/lorem2.png">
+<img src="https://github.com/jefferson1984/gerador-de-cores/blob/main/cores2.png">
 
 ## Reproduzir
 
